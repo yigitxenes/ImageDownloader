@@ -8,8 +8,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:text="https://upload.wikimedia.org/wikipedia/commons/e/ed/016vallesmarineris_r
-educed0.5.jpg" />
+        android:text="https://upload.wikimedia.org/wikipedia/commons/e/ed/016vallesmarineris_reduced0.5.jpg" />
     <Button
         android:id="@+id/btnDownload"
         android:layout_width="match_parent"
